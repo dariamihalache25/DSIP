@@ -1,0 +1,13 @@
+4.1 My IP Address: 212.222.202.183 
+My IP Address (locally): 10.146.202.21
+
+4.2 My IP Address with VPN: 145.138.212.35
+The result changed because the VPN made it look like I was connecting from the university, not from home.
+
+4.3 My IP Address and my gateway are both private. 
+
+4.4 52.1608, 4.4934 
+
+4.5 The first hub is my local private network because it has a private VPN Address, while the last one is public.
+
+4.6 37.751, -97.822 
