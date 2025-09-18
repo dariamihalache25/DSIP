@@ -1,5 +1,5 @@
-4.1 My IP Address: 212.222.202.183 
-My IP Address (locally): 10.146.202.21
+
+4.1 My IP Address (locally): 10.146.202.21
 
 4.2 My IP Address with VPN: 145.138.212.35
 The result changed because the VPN made it look like I was connecting from the university, not from home.
