@@ -1,0 +1,23 @@
+Hex values for "world" is 77 6F 72 6C 64
+
+Starting position in the file of the corresponding bytes of the phrase "hello world!" is 00001840
+
+hello_world(1bit).bmp: pixel data starts at 3E 
+
+hello_world(24bit).bmp: pixel data starts at 36
+
+When I changed the extension from .txt to .exe and I tried to run the file it said that the app cannot run on my PC. Changing the extension did not change the bytes inside the file.
+
+When I tried to change the file content from "hello_world.txt" it would not allow me to do that because it is read-only.
+
+Questions from 7:
+
+1. On my machine I have one disk.
+2. Model Micron_2400_MTFDKBA512QFM (SSD), capacity of 476.92 GB, read speed 4200 MB/s, write speed 1800 MB/s.
+3. My disk contains 5 partitions:
+1-  100 MB, system
+2- 16 MB, reserved
+3- 241.72 GB, basic
+4- 742 MB, recovery
+5- 234.38 GB, basic
+    

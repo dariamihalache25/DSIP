@@ -1,0 +1,13 @@
+4 COMPONENT IDENTIFICATION
+1. CPU model: AMD Ryzen 5 7430U, 6 cores, speed 2.30 GHz
+2. Type of RAM: DDR4 SDRAM, MODEL: Micron MTA4ATF1G64HZ-3G2F1, speed: 3200 MHz, how much: 8 GB per module
+3. integrated GPU, 0 GB VRAM, 427 GB dedicated towards iGPU
+4. BIOS version: 311, date when it was last updated: 1/22/2025
+
+5 BOOT ORDER
+
+6 SCREEN RESOLUTION
+1. Current screen resolution: 1920x1080
+2. When changing my screen orientation to portrait mode the screen rotated 90 degrees to the left.
+3. I would not usually put my screen in portrait mode, but I might use it for social media apps or documents like eBooks that have a vertical layout. Portrait mode can show more lines at once, making it easier to read or browse.
+4. When I changed the resolution to 800×600 everything on the screen appeared larger. It also reduced clarity and limited how much content I could see at one time.
